@@ -1,0 +1,29 @@
+.container{
+    background-color:white;
+}
+
+.dropdown-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-section{
+    margin-top: 20px;
+    
+}
+.card-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.progress-section{
+    margin-top: 20px;
+}
+
+.pagination-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
